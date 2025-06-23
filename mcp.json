@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "doc_analyzer": {
+      "command": "/Users/sectorx/Documents/MCP/MCP-Dev/project_reports/doc_analyzer_mcp_server/.venv/bin/python",
+      "args": [
+        "/Users/sectorx/Documents/MCP/MCP-Dev/project_reports/doc_analyzer_mcp_server/src/main.py"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONPATH": "/Users/sectorx/Documents/MCP/MCP-Dev/project_reports/doc_analyzer_mcp_server/.venv/lib/python3.11/site-packages"
+      }
+    }
+  }
+} 
